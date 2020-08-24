@@ -9,4 +9,4 @@ I am planning to become software developer and working on new technologies to up
 ## Links
 Check out my [Linkedin](https://www.linkedin.com/in/chetan-kudaravalli-584624120/) profile.
 
-![This is my picture](d.jpeg)
+![This is my picture](dp.jpeg)
