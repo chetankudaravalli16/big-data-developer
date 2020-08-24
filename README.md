@@ -1,5 +1,5 @@
 # Chetan Kudaravalli
-make a space between the # and your name
+Make a space between the # and your name
 ## Current
 Graduate student in North West Missouri State University on Appiled Computer Science background. This is my last semester in masters.
 
