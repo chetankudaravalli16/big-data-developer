@@ -7,6 +7,6 @@ I am from vijayawada, which is in southern part of india. I completed my underga
 ## Plans
 I am planning to become software developer and working on new technologies to update myself everyday.
 ## Links
-Check out my [Linkedin](https://www.linkedin.com/in/chetan-kudaravalli-584624120/) profile: 
+Check out my [Linkedin](https://www.linkedin.com/in/chetan-kudaravalli-584624120/) profile.
 
-![This is my pic](sc.PNG)
+![This is my picture](sc.PNG)
