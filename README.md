@@ -8,7 +8,9 @@ I am from vijayawada, which is in southern part of india. I completed my undergr
 ## Plans
 I am planning to become software developer and working on new technologies to update myself everyday.
 ## Links
-Check out my [Linkedin](https://www.linkedin.com/in/chetan-kudaravalli-584624120/) profile.
+* Check out my [Linkedin](https://www.linkedin.com/in/chetan-kudaravalli-584624120/) profile.
+* My [Github](https://github.com/chetankudaravalli16)
+* [Shell-data-processing Repo](https://github.com/chetankudaravalli16/shell-data-processing)
 
 ### Here is a picture of myself
 ![This is my picture](dp.jpeg)
